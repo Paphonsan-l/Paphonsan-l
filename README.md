@@ -1,4 +1,4 @@
-<h1 align="center">👋 PapXD</h1>
+<h1 align="center">👋 Paphonsan Leenin</h1>
 <h3 align="center">Student | Aspiring System Analyst & Developer</h3>
 
 <p align="center">
@@ -51,7 +51,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Paphonsan-l&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paphonsan-l&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paphonsan-l&theme=tokyo-night" />
 </p>
 
 ---
