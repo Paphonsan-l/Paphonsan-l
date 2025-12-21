@@ -1,7 +1,7 @@
-# 👋 Hi, I'm PapXD
+# 👋 Hi, I'm Paponsan Leenin
 
 🎓 **Student**  
-💡 สนใจสายงาน **System Analyst (SA)**, **Software Tester**, และ **Frontend Developer**  
+💡 สนใจการทำ **System Analyst (SA)**, **Software Testing**, และ **Frontend Developer**  
 ชอบเรียนรู้การออกแบบระบบ วิเคราะห์ความต้องการผู้ใช้ และพัฒนา UI ที่ใช้งานง่าย
 
 ---
