@@ -44,7 +44,3 @@
 </p>
 
 ---
-
-⭐ *Always learning, improving, and building step by step.*
-
-
