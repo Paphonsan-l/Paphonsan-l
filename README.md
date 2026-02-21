@@ -19,19 +19,14 @@
 
 ## ⚙️ Tech Stack
 
-### Languages
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
 </p>
 
-### Frontend
+### Frontend/Backend Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel" />
 </p>
 
 ### Database
@@ -40,9 +35,11 @@
   <img src="https://img.shields.io/badge/SQL_Server-1e1e1e?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### Tools
+### Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,docker" />
+  <img src="https://img.shields.io/badge/n8n-%23FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
