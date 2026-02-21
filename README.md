@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student with strong interest in **System Analyst (SA)**, **Software Tester**, and **Frontend Development**
+- 🎓 Student with strong interest in **System Analyst (SA)**, **Software Tester**, and **Web Development**
 - 🧠 Enjoys analyzing system requirements and transforming them into practical solutions
 - 🧩 Believes good systems start from **clear analysis**, not just code
 
